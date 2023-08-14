@@ -10,7 +10,6 @@ Welcome to the Job Portal Web Application's README file! This document provides 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
